@@ -29,3 +29,5 @@ simpleServer({
   hostname: 'localhost',
   port: 8888
 })
+
+// 运行起来在命令窗口运行: deno --allow-net tcp.ts
